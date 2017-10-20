@@ -28,6 +28,8 @@ App will have 3 main sections, “pantry”, shopping list and recipes.
 
 ## Team Members:
 
+Charles Chapman @Zulico
+
 Drew Carr @drewcarr
 
 Philip Rettenmaier @ptrett
