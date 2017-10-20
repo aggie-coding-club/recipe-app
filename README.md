@@ -15,3 +15,11 @@ App will have 3 main sections, “pantry”, shopping list and recipes.
 •	Recipes, Searches recipes made with objects in pantry, Can add basic filters, like breakfast, lunch, dinner, cooking time, etc., Could use google or other similar search engine to find recipes, rather than manually inputting all recipes
 
 Team Members:
+
+Drew Carr
+
+Philip Rettenmaier
+
+Vivek Warrier
+
+Zheng Xiao
