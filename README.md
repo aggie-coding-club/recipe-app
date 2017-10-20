@@ -25,10 +25,10 @@ Recipes
 
 ## Team Members:
 
-Drew Carr
+Drew Carr @drewcarr
 
-Philip Rettenmaier
+Philip Rettenmaier @ptrett
 
-Vivek Warrier
+Vivek Warrier @VNWarrier
 
-Zheng Xiao
+Zheng Xiao @cdnm26
