@@ -7,17 +7,11 @@ The core idea of the project is an app that gives food recipes based on what foo
 
 Specifics:
 App will have 3 main sections, “pantry”, shopping list and recipes.
-•	Pantry section
-o	Will allow user to input what they have
-o	has ability to track stuff like expiration dates if entered
-o	Recipes will be made from things in the pantry section
-•	Shopping list
-o	Basic shopping list, quantity and brand and whatnot 
-o	Can easily check off objects of list to move to pantry section
-•	Recipes
-o	Searches recipes made with objects in pantry
-o	Can add basic filters, like breakfast, lunch, dinner, cooking time, etc.
-o	Could use google or other similar search engine to find recipes, rather than manually inputting all recipes
+
+•	Pantry section: Will allow user to input what they have, has ability to track stuff like expiration dates if entered, Recipes will be made from things in the pantry section
+
+•	Shopping list, Basic shopping list, quantity and brand and whatnot, Can easily check off objects of list to move to pantry section
+
+•	Recipes, Searches recipes made with objects in pantry, Can add basic filters, like breakfast, lunch, dinner, cooking time, etc., Could use google or other similar search engine to find recipes, rather than manually inputting all recipes
 
 Team Members:
-
