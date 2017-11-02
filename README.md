@@ -3,7 +3,7 @@ Language: C++
 
 IDE: Visualstudio / Xamarin
 
-Meetings: Thursday at 6:30 - 7:30 (Still in flux)
+Meetings: Thursday at 4-5pm (Still in flux)
 
 ## Main Idea:
 The core idea of the project is an app that gives food recipes based on what food you already have.
