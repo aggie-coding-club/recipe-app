@@ -26,14 +26,12 @@ App will have 3 main sections, “pantry”, shopping list and recipes.
 - Can add basic filters, like breakfast, lunch, dinner, cooking time, etc. 
 - Use search engine to find recipes, rather than manually inputting all recipes
 
-## Team Members:
+## Useful Links:
+- Slack: https://aggie-coding-club.slack.com/messages/C7FDXPL1W/team/U753FGQQG/
+- Xamarin: https://www.xamarin.com/resources
+- Xamarin Quickstart: https://developer.xamarin.com/guides/android/getting_started/hello,android/
+- Git Workshop: https://github.com/SaltyQuetzals/Git-Good-Kid
 
-Charles Chapman @Zulico
-
-Drew Carr @drewcarr
-
-Philip Rettenmaier @ptrett
-
-Vivek Warrier @VNWarrier
-
-Zheng Xiao @cdnm26
+## Other:
+- List of group members will be posted once active members are finalized.
+- Look at issues if you need to know what to do, or contact me @Philip Rettenmaier on Slack, many of these issues are for distant goals at this point
