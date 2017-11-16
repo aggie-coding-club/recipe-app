@@ -27,11 +27,11 @@ App will have 3 main sections, “pantry”, shopping list and recipes.
 - Use search engine to find recipes, rather than manually inputting all recipes
 
 ## Useful Links:
-Slack: https://aggie-coding-club.slack.com/messages/C7FDXPL1W/team/U753FGQQG/
-Xamarin: https://www.xamarin.com/resources
-Xamarin Quickstart: https://developer.xamarin.com/guides/android/getting_started/hello,android/
-Git Workshop: https://github.com/SaltyQuetzals/Git-Good-Kid
+- Slack: https://aggie-coding-club.slack.com/messages/C7FDXPL1W/team/U753FGQQG/
+- Xamarin: https://www.xamarin.com/resources
+- Xamarin Quickstart: https://developer.xamarin.com/guides/android/getting_started/hello,android/
+- Git Workshop: https://github.com/SaltyQuetzals/Git-Good-Kid
 
 ## Other:
-List of group members will be posted once active members are finalized.
-Look at issues if you need to know what to do, or contact me @Philip Rettenmaier on Slack, many of these issues are for distant goals at this point
+- List of group members will be posted once active members are finalized.
+- Look at issues if you need to know what to do, or contact me @Philip Rettenmaier on Slack, many of these issues are for distant goals at this point
