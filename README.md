@@ -23,7 +23,7 @@ App will have 3 main sections, “pantry”, shopping list and recipes.
 
 #### Recipes:
 - Searches recipes made with objects in pantry
-- Can add basic filters, like breakfast, lunch, dinner, cooking time, etc. 
+- Can add basic filters, like breakfast, lunch, dinner, cooking time, dietary restrictions, etc. 
 - Use search engine to find recipes, rather than manually inputting all recipes
 
 ## Useful Links:
