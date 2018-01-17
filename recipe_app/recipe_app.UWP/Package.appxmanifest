@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="8e578f47-8272-41d2-ae87-57bec5710cae"
+    Name="2e31bbcc-49d3-45d4-b849-b99769261864"
     Publisher="CN=Philip"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="8e578f47-8272-41d2-ae87-57bec5710cae" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="2e31bbcc-49d3-45d4-b849-b99769261864" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>recipe_app.UWP</DisplayName>
@@ -26,7 +26,7 @@
   <Resources>
     <Resource Language="x-generate"/>
   </Resources>
-  
+
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
