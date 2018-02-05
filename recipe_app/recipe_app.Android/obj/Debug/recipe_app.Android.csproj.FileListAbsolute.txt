@@ -56,6 +56,7 @@ C:\Users\Philip\source\repos\recipe_app\recipe_app\recipe_app.Android\obj\Debug\
 C:\Users\Philip\source\repos\recipe_app\recipe_app\recipe_app.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Philip\source\repos\recipe_app\recipe_app\recipe_app.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Philip\source\repos\recipe_app\recipe_app\recipe_app.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\recipe_app.Android.csprojResolveAssemblyReference.cache
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\recipe_app.Android.dll
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\recipe_app.Android.pdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\com.companyname.recipe_app.apk
@@ -82,16 +83,11 @@ C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\recipe_app.pdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\FormsViewGroup.pdb
-C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
-C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\recipe_app.Android.csprojResolveAssemblyReference.cache
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\recipe_app.Android.csproj.CoreCompileInputs.cache
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\recipe_app.Android.dll
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\recipe_app.Android.pdb
@@ -106,6 +102,10 @@ C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\R.cs.flag
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\uploadflags.txt
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\recipe_app.dll.mdb
+C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\bin\Debug\recipe_app.Android.dll.mdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\Philip\source\repos\recipe-app\recipe_app\recipe_app.Android\obj\Debug\android\assets\recipe_app.Android.dll.mdb

@@ -2,12 +2,13 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="recipe_app.ShoppingList">
-    <!---<ContentPage.Content>
-        <StackLayout>
-            <Label Text="Shopping List Placeholder"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content> -->
-    <ListView x:Name="IngredientList"/>
+    <ContentPage.Content>
+        <ListView x:Name="IngredientList">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding IName}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
 </ContentPage>

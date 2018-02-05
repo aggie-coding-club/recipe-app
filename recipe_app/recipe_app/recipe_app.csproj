@@ -38,6 +38,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Ingredient.cs" />
     <Compile Include="Pantry.xaml.cs">
       <DependentUpon>Pantry.xaml</DependentUpon>
     </Compile>
