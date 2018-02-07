@@ -12,6 +12,7 @@ namespace recipe_app
         public App()
         {
             InitializeComponent();
+            //Ingredient temp = new Ingredient { IName = "Pepperoni", ICount = 1 };
 
             MainPage = new CarouselPage
             {
@@ -22,9 +23,6 @@ namespace recipe_app
                     new ShoppingList()
                 }
             };
-            //var pages = Children.GetEnumerator();
-            //pages.MoveNext();
-            //CurrentPage = pages.Current;
         }
 
         protected override void OnStart()
