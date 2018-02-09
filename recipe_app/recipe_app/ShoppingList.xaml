@@ -6,7 +6,13 @@
         <ListView x:Name="IngredientList">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding IName}" />
+                    <!--<TextCell Text="{Binding IName}"/>-->
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Spacing="4" Padding="5" >
+                            <Label Text="{Binding IName}" />
+                            <Label Text="{Binding ICount}" />
+                        </StackLayout>
+                    </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
